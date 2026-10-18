@@ -216,9 +216,6 @@ export function Header() {
                     <span className="text-[11px] font-mono uppercase tracking-wider text-muted-foreground font-semibold">
                       Engineering Capabilities
                     </span>
-                    <span className="text-[10px] font-mono text-muted-foreground/70">
-                      04 Modules
-                    </span>
                   </div>
 
                   <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5">
